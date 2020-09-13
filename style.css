@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+   font-family: 'Orbitron', sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style:bold;
+  color: #D490FC;
+  font-size:300%;
+  
+}
+h3{
+  color:white;
+  font-size:200%;
+}
+
+img {
+  border: 2px solid #555;
+  border-radius: 50%;
+  border-color:pink;
+}
+figcaption{
+  font-family:'Gruppo';
+  color: white;
+  
+}
+li:before{ content: '\1F95E'; margin-left: -20px; margin-right: 10px; } 
+li:before{ content: '\264A'; margin-left: -20px; margin-right: 10px; } 
+body {background-color: black;}
+
